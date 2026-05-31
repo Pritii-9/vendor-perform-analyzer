@@ -1,0 +1,11 @@
+# Ignore database and raw data files (too large for GitHub)
+vendor_analysis.db
+data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
